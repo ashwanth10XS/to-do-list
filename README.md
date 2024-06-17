@@ -2,12 +2,13 @@
 ✅ Simple to-do list app with Python's Tkinter 🐍. Add, complete, and delete tasks with ease! 📝
 
 # showcase 
-https://raw.githubusercontent.com/ashwanth10XS/to-do-list/main/assets/showcase.mp4
+- ![Showcase1](./assets/image.png)
+
 
 ## table of content
-- Overview(#overview)
-- Dependencies(#dependencies)
-- License(#license)
+- [Overview](#overview)
+- [Dependencies](#dependencies)
+- [License](#license)
 
 ## Overview
 
