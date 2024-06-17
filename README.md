@@ -7,16 +7,16 @@ https://raw.githubusercontent.com/ashwanth10XS/to-do-list/main/assets/showcase.m
 ## table of content
 - Overview(#overview)
 - Dependencies(#dependencies)
-- Installation(#installation)
-- Contributing(#contributing)
-- Licence(#licence)
+- License(#license)
 
 ## Overview
 
+- A Python todo list using Tkinter GUI 🖥️ manages tasks 📝 with add, delete, and list features 🗃️, offering an interactive user interface.
+
 ## Dependencies
 
-## Installation
+- tkinter (for GUI interface)
+ 
 
-## Contributing 
-
-## Licence
+## License
+- to do list is licensed under the gnu -see the license file for details.
