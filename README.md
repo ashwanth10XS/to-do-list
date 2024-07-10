@@ -1,5 +1,5 @@
 # to-do-list
-✅ Simple to-do list app with Python's Tkinter 🐍. Add, complete, and delete tasks with ease! 📝
+✅ Simple to-do list app with Python's Tkinter 🐍. Add, complete, and delete tasks with ease!📝
 
 # showcase 
 - ![Showcase1](./assets/image.png)
