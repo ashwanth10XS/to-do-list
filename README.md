@@ -12,7 +12,7 @@
 
 ## Overview
 
-- A Python todo list using Tkinter GUI 🖥️ manages tasks 📝 with add, delete, and list features 🗃️, offering an interactive user interface.
+- A Python todo list using Tkinter GUI 🖥️ manages tasks 📝 like add, delete, and list features 🗃️, offering an interactive user interface.
 
 ## Dependencies
 
