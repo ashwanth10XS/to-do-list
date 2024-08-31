@@ -20,4 +20,4 @@
  
 
 ## License
-- to-do list is licensed under the gnu -see the license file for details.
+- to-do list is licensed under the gnu see the license file for details.
